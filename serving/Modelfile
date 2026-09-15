@@ -1,0 +1,5 @@
+# M6: Ollama import definition for the merged/converted GGUF.
+# TEMPLATE and stop PARAMETERs must match the training chat template exactly
+# (including empty think blocks — see docs/PROJECT_GUIDE.md §M3/§M6).
+#
+# TODO: fill in once M6 is reached.

@@ -1,0 +1,8 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "TODO: name the schema after the chosen corpus",
+  "description": "TODO (M0): frozen JSON Schema for the extraction target. Do not fill in field contents until the corpus (see docs/PROJECT_GUIDE.md §7) is chosen.",
+  "type": "object",
+  "properties": {},
+  "required": []
+}

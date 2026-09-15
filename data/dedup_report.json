@@ -1,0 +1,3 @@
+{
+  "_todo": "M3: near-dup report from src/dedup.py, run four ways (raw pre-split, train<->eval, train<->dev, train<->train). See docs/PROJECT_GUIDE.md."
+}
