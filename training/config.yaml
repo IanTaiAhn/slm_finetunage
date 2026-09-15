@@ -1,0 +1,5 @@
+# M4 hyperparameters. See docs/PROJECT_GUIDE.md §3 for the reference config
+# and its caveats (target_modules naming may not match an MoE variant;
+# verify against the actual model's named_modules() before filling this in).
+#
+# TODO: fill in once the base model (§7) is chosen.

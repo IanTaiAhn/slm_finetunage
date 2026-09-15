@@ -1,0 +1,12 @@
+# Exact pins, not loose ranges — Unsloth pins torch/CUDA combinations hard.
+# Record the working combination here once found (see docs/PROJECT_GUIDE.md §1).
+torch==<TODO>
+unsloth==<TODO>
+transformers==<TODO>
+peft==<TODO>
+trl==<TODO>
+bitsandbytes==<TODO>
+accelerate==<TODO>
+datasets==<TODO>
+jsonschema==<TODO>
+pydantic==<TODO>
